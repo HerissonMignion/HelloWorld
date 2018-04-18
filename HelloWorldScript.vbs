@@ -34,7 +34,8 @@ end sub
 writeline("Hello world !")
 readline()
 
-
+writeline("Good bye")
+readline()
 
 
 
